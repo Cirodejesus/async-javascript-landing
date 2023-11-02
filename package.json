@@ -4,12 +4,9 @@
   "description": "personal project",
   "main": "index.js",
   "scripts": {
-    "deploy": "gh-pages -d src"
+    "test": "echo \"Error: no se han definido pruebas\" && exit 1"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
-  "devDependencies": {
-    "gh-pages": "^6.0.0"
-  }
+  "license": "ISC"
 }
